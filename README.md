@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/charlesyoung-de/dimensional-evolution-theory/main/Dimensional_Evolution_Social_Preview_Optimized.png" alt="Dimensional Evolution Banner" width="100%">
+</p>
 # Dimensional Evolution Theory
 
 **Author:** Charles Francis Young (Chuck)  
