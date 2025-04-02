@@ -4,6 +4,7 @@
 # Dimensional Evolution Theory
 
 **Author:** Charles Francis Young (Chuck)  
+**Title:** Independent theoretical physicist focused on resonance, perception, and waveform reality. Creator of the *Dimensional Evolution* framework.  
 **Last Updated:** April 2, 2025
 
 ---
