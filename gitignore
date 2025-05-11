@@ -1,0 +1,13 @@
+# Ignore OS and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+~$*
+
+# Ignore Python cache files (if used later)
+__pycache__/
+*.pyc
+
+# Ignore Office autosaves
+~$*.docx

@@ -33,15 +33,18 @@ The theory frames observation not as collapse, but as **resonant selection**. Th
 ```
 dimensional-evolution-theory/
 ├── paper/
-│   ├── Dimensional_Evolution_Final_ILLUSTRATED.docx
+│   ├── Dimensional_Evolution_v1.0.docx
 │   ├── Dimensional_Evolution_v1.0.pdf
 ├── images/
 │   ├── Electron.jpg
 │   ├── YouVerse_Inverse_Toroid.png
 │   ├── VesicaPiscisHuman.png
 │   ├── Observation_Waves.png
+├── history/
+│   ├── Resonant_Observation_and_Dimensional_Evolution_v1.2_FULL
 ├── README.md
-├── changelog.txt
+├── archive/
+│   ├── changelog.txt
 └── LICENSE
 ```
 

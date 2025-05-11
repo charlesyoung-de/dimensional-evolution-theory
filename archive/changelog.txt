@@ -1,0 +1,15 @@
+# Dimensional Evolution Changelog
+
+## Version 1.0 – April 2025
+- Final manuscript completed and illustrated
+- Claude feedback incorporated (mechanistic clarity, side-by-side physics comparison, philosophical segmentation)
+- README finalized for GitHub repository
+- Electron event horizon photo sourced and credited
+- All major figures inserted into manuscript with captions
+- Project licensed under CC BY 4.0
+
+## Version 0.9 – March 2025
+- Early drafts exploring resonance, observation, YouVerse/YouInverse duality
+- Initial experimental observations recorded (capacitor bounce-back)
+- Magnetism and dimensional tension theorized but not illustrated
+- First full outline and integration of biological and spiritual components
