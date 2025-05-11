@@ -1,61 +1,79 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/charlesyoung-de/dimensional-evolution-theory/main/Dimensional_Evolution_Social_Preview_Optimized.png" alt="Dimensional Evolution Banner" width="100%">
 </p>
+
 # Dimensional Evolution Theory
 
 **Author:** Charles Francis Young (Chuck)  
-**Title:** Independent theoretical physicist focused on resonance, perception, and waveform reality. Creator of the *Dimensional Evolution* framework.  
-**Last Updated:** April 2, 2025
+**Title:** Independent theoretical physicist focused on resonance, perception, and waveform reality.  
+**Last Updated:** April 2025  
 
 ---
 
-## Overview
+## 📘 Overview
 
-This repository introduces a new theoretical framework called **Dimensional Evolution**, which reinterprets the foundations of quantum physics through the lens of **resonant observation**. It proposes that what we perceive as wavefunction collapse is not an actual collapse—but rather a **filtering of waveform reality** based on the observer’s resonance with energy.
+**Dimensional Evolution** is a new unified theory proposing that all physical phenomena—including gravity, consciousness, biology, and quantum mechanics—are expressions of **fractal resonance** between observed and unobserved waveforms. This repository contains the full illustrated manuscript, diagrams, and supporting documents for Version 1.0 of the theory.
 
-At its core, this theory suggests:
-
-- The human body functions as a **fractal antenna**, only perceiving frequencies it can resonate with.
-- Observation does **not collapse reality**, but aligns with a slice of it—creating the illusion of collapse.
-- **We are the interference pattern** seen in the double slit experiment.
-- Evolution, memory, perception, and even consciousness are emergent results of **resonant entropy** and energy seeking equilibrium.
-- Phenomena such as **gravity, dark matter, and dark energy** can be reinterpreted as layers of energy out of resonance with our current state.
+The theory frames observation not as collapse, but as **resonant selection**. The observer does not see “the universe”—they **tune into it**. And what they tune into is a fractal echo of themselves.
 
 ---
 
-## Files Included
+## 🌌 Core Concepts
 
-- `Resonant_Observation_and_Dimensional_Evolution_v1.2_FULL.docx`  
-  Full manuscript with all theoretical sections.
-
-- `Resonant_Observation_and_Dimensional_Evolution_v1.2_Summary.pdf`  
-  A simplified summary version for quick reading or sharing.
-
-- `resonant_wave_diagram_1.png`  
-  A visual representation of how resonance filters waveform input.
-
-- `resonant_observer_window.png`  
-  Diagram showing how the interference pattern is created by resonance filtering.
+- **YouVerse and YouInverse:** Each observer creates a resonant slice of reality between observed and unobserved dimensions.
+- **Dimensional Gravity:** Gravity emerges as tension between inverse fields, not curvature of spacetime.
+- **Magnetic Fields:** Interference patterns from entangled inverses—measurable reflections of consciousness.
+- **Electron as Event Horizon:** Electrons behave as micro black holes, fractally mirroring cosmic phenomena.
+- **Biological Resonance:** DNA, heartbeat, and perception are antenna functions of a harmonic energy system.
 
 ---
 
-## Future Development
+## 📁 Repository Contents
 
-This repository will continue to expand with:
-
-- Visuals and models of resonance-based perception
-- Experimental reinterpretations (e.g., quantum eraser, phosphorescence)
-- Companion essays on consciousness, memory, and biological resonance
-- Public-friendly video breakdowns and infographics
+```
+dimensional-evolution-theory/
+├── paper/
+│   ├── Dimensional_Evolution_Final_ILLUSTRATED.docx
+│   ├── Dimensional_Evolution_v1.0.pdf
+├── images/
+│   ├── Electron.jpg
+│   ├── YouVerse_Inverse_Toroid.png
+│   ├── VesicaPiscisHuman.png
+│   ├── Observation_Waves.png
+├── README.md
+├── changelog.txt
+└── LICENSE
+```
 
 ---
 
-## License
+## 🧪 Experimental Pathways (In Progress)
 
-This work is shared under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. Feel free to use, remix, or reference it—with credit to **Charles Francis Young**.
+This version includes theoretical support for field-based experiments, including:
+- Capacitor bounce-back and energy retention beyond Ohmic models
+- Spark gap and field rebound studies
+- Inverse-field detection using low-resistance resonant circuits
+
+Further bench experiments will be logged in future versions.
 
 ---
 
-## Contact
+## ✨ License
 
-For questions, collaboration, or interest in further development, reach out via the repository’s Issues page or GitHub Discussions (coming soon).
+This work is published under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+You are free to share, adapt, and remix with attribution to **Charles Francis Young**.
+
+---
+
+## 📣 How to Cite
+
+> Young, C. (2025). *Dimensional Evolution: The Fractal Framework of Life via Resonant Perspective*. GitHub Repository.  
+> [https://github.com/charlesyoung-de/dimensional-evolution-theory](https://github.com/charlesyoung-de/dimensional-evolution-theory)
+
+---
+
+## 🤝 Collaboration
+
+If you’re a researcher, theorist, artist, or experimental physicist interested in expanding, testing, or translating this work, please reach out via the Issues tab or GitHub Discussions.
+
+> *The universe is not made of things. It is made of resonant questions asking themselves.*
