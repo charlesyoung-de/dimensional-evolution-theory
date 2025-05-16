@@ -5,8 +5,7 @@
 # Dimensional Evolution Theory
 
 **Author:** Charles Francis Young (Chuck)  
-**Title:** Independent theoretical physicist focused on resonance, perception, and waveform reality.  
-**Last Updated:** April 2025  
+**Last Updated:** May 2025  
 
 ---
 
@@ -33,8 +32,8 @@ The theory frames observation not as collapse, but as **resonant selection**. Th
 ```
 dimensional-evolution-theory/
 ├── paper/
-│   ├── Dimensional_Evolution_v1.0.docx
-│   ├── Dimensional_Evolution_v1.0.pdf
+│   ├── Dimensional_Evolution_Final.docx
+│   ├── Dimensional_Evolution_Final.pdf
 ├── images/
 │   ├── Electron.jpg
 │   ├── YouVerse_Inverse_Toroid.png
@@ -71,7 +70,7 @@ You are free to share, adapt, and remix with attribution to **Charles Francis Yo
 ## 📣 How to Cite
 
 > Young, C. (2025). *Dimensional Evolution: The Fractal Framework of Life via Resonant Perspective*. GitHub Repository.  
-> [https://github.com/charlesyoung-de/dimensional-evolution-theory](https://github.com/charlesyoung-de/dimensional-evolution-theory)
+> Available at: [https://github.com/charlesyoung-de/dimensional-evolution-theory](https://github.com/charlesyoung-de/dimensional-evolution-theory)
 
 ---
 
